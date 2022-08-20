@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student_Cgpa", "Teachers_Report\Student_Cgpa.csproj", "{98B7B4A1-9707-49C9-B85C-35BFB49FE291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGPA_Report_Test", "CGPA_Report_Test\CGPA_Report_Test.csproj", "{C20F58ED-4A80-418F-95F7-749DB3FFB165}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98B7B4A1-9707-49C9-B85C-35BFB49FE291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B7B4A1-9707-49C9-B85C-35BFB49FE291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B7B4A1-9707-49C9-B85C-35BFB49FE291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B7B4A1-9707-49C9-B85C-35BFB49FE291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C20F58ED-4A80-418F-95F7-749DB3FFB165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20F58ED-4A80-418F-95F7-749DB3FFB165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20F58ED-4A80-418F-95F7-749DB3FFB165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20F58ED-4A80-418F-95F7-749DB3FFB165}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2025BE00-4CA9-4E38-B5DA-7E07D6BFCA77}
+	EndGlobalSection
+EndGlobal
